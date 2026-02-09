@@ -1,0 +1,23 @@
+datasets:
+  - name: "HarmBenchResponse"
+    folder: "HarmBench"
+
+  - name: "BeaverTails"
+    folder: "BeaverTails"
+    split: "30k_train"
+
+  - name: "SafeRLHF"
+    folder: "PKU-SafeRLHF"
+    split: "train"
+  
+  - name: "XSTestResponse"
+    folder: "xstest-response"
+
+  - name: "WildGuardMix"
+    folder: "wildguardmix"
+    subset: "wildguardtrain"
+    split: "train"
+
+  - name: "Aegis2.0"
+    folder: "Aegis-AI-Content-Safety-Dataset-2.0"
+    split: "train"

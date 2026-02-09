@@ -1,0 +1,14 @@
+datasets:
+  - name: "Aegis2.0"
+    folder: "Aegis-AI-Content-Safety-Dataset-2.0"
+    split: "train"
+
+  - name: "ToxicChat"
+    folder: "toxic-chat"
+    split: "train"
+
+  - name: "WildGuardTest"
+    folder: "WildGuardTest"
+
+  - name: "OpenAIMod"
+    folder: "OpenAIMod"

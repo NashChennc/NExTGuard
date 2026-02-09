@@ -1,0 +1,21 @@
+datasets:
+  - name: "HarmBenchResponse"
+    folder: "HarmBench"
+
+  - name: "BeaverTails"
+    folder: "BeaverTails"
+
+  - name: "BeaverTailsAugmented"
+    folder: "BeaverTailsAugmented"
+
+  - name: "SafeRLHF"
+    folder: "PKU-SafeRLHF"
+
+  - name: "XSTestResponse"
+    folder: "xstest-response"
+
+  - name: "WildGuardMix"
+    folder: "wildguardmix"
+
+  - name: "Aegis2.0"
+    folder: "Aegis-AI-Content-Safety-Dataset-2.0"

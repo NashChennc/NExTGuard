@@ -1,0 +1,31 @@
+defaults:
+  max_samples: 1000
+
+datasets:
+  - name: "ToxicChat"
+    folder: "toxic-chat"
+    type: "prompt"
+
+  - name: "OpenAIMod"
+    folder: "OpenAIMod"
+    type: "prompt"
+
+  - name: "Aegis1.0"
+    folder: "Aegis-AI-Content-Safety-Dataset-1.0"
+    type: "prompt"
+
+  - name: "Aegis2.0"
+    folder: "Aegis-AI-Content-Safety-Dataset-2.0"
+    type: "prompt"
+
+  - name: "SimpleSafetyTest"
+    folder: "SimpleSafetyTests"
+    type: "prompt"
+
+  - name: "HarmBench"
+    folder: "HarmBench"
+    type: "prompt"
+
+  - name: "WildGuardTest"
+    folder: "WildGuardTest"
+    type: "prompt"
